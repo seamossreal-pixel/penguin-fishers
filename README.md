@@ -23,7 +23,8 @@ The launcher and the game check this page for new versions. On PC the game offer
 
 Also on the island:
 - **Levels.** Earn XP for almost everything; level up to unlock new hats, glasses and colours.
-- **Surprises.** Treasure chests wash ashore and fish sometimes rain from the sky.
+- **Surprises.** Treasure chests wash ashore and fish sometimes rain from the sky. Random day events: seagull invasion, fog, storm, moon gravity, ice skating, fish rain, golden day and the Walrus Feast Day (faster orders, double pay).
+- **Continue.** Every won day is saved on the host's PC; press CONTINUE in the lobby to pick up where you left off.
 - **Hunger.** Cook a fish at the campfire (cooking minigame) and eat it (**X**).
 - **Seagulls** steal fish (but never while you cook). Pick up stones (**E** at a stone pile) and throw them (**G**, auto-aim) at gulls, or at your friends for a bonk (4 s cooldown).
 - **Fish index** (**I**) lists every fish you've discovered.
