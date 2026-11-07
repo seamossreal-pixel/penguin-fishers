@@ -18,9 +18,11 @@ The launcher and the game check this page for new versions and update automatica
 2. **Deliver.** Carry the fish to the Walrus's bucket and fill the daily quota. Everything you deliver after the quota goes to the team wallet.
 3. **Shop.** Buy new rods, steel line, flippers, scarves and baits from Seal Fikri's market.
 4. **Boss.** Throw the boss bait into the whirlpool. Reel the giant fish ashore, then **punch it (F)** while it's stunned. It drops a gold bar.
-5. **Sail.** Give the gold to Captain Pelican, board the boat and follow the compass to the next island.
+5. **Sail.** Give the gold to Captain Pelican, board the boat and follow the compass to the next island. Every island is different: Glacier, Palm and Volcano islands each have their own look and fish bonuses.
 
 Also on the island:
+- **Levels.** Earn XP for almost everything; level up to unlock new hats, glasses and colours.
+- **Surprises.** Treasure chests wash ashore and fish sometimes rain from the sky.
 - **Hunger.** Cook a fish at the campfire (cooking minigame) and eat it (**X**).
 - **Seagulls** steal fish. Pick up stones (**E** at a stone pile) and throw them (**G**, auto-aim).
 - **Fish index** (**I**) lists every fish you've discovered.
