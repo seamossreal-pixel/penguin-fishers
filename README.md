@@ -19,7 +19,18 @@ The launcher and the game check this page for new versions. On PC the game offer
 3. **Walrus orders.** The Walrus sits on his throne at the far end of the island and orders a specific fish (shown at the top of the screen and above his head). There is no deadline, and the fish he wants bites more often. Bring it for a big bonus. Junk and slaps cost his **patience** (3 strikes, top bar); run out before the quota is met and you're fired. Delivered orders win some patience back.
 4. **Market.** Seal Fikri's market has stands with the goods on display: walk up to one and press **E** to buy. Six rods (Bamboo, Carbon, Golden, Crystal, Lava, Rainbow), steel line, flippers, scarves and baits, plus one special item per island: gull repellent (Home), warm scarf (Glacier), a lucky parrot (Palm) and magma bait (Volcano).
 5. **Boss.** Throw the boss bait into the whirlpool. Reel the giant fish ashore, then **punch it (F)** while it's stunned. It drops a gold bar.
-6. **Sail.** Give the gold to Captain Pelican, board the boat and follow the compass to the next island. Every island is different: Glacier, Palm and Volcano islands each have their own trees, decorations, Walrus outfit, fish bonuses and two fish you can only catch there (Ice Cod, Crystal Fish, Clownfish, Parrotfish, Coalfish, Lava Fish). When a day ends nobody is teleported: keep doing what you were doing.
+6. **Sail.** Give the gold to Captain Pelican, board the boat and follow the compass to the next island you can see on the horizon. Nobody is teleported: steer the boat to the shore and the new day starts the moment someone steps onto the island. Every island is different: Glacier, Palm and Volcano islands each have their own trees, decorations, Walrus outfit, fish bonuses and two fish you can only catch there (Ice Cod, Crystal Fish, Clownfish, Parrotfish, Coalfish, Lava Fish).
+
+Every island also has its own playground and a small islet across a rope bridge:
+
+| Island | Playground | Islet |
+|---|---|---|
+| Home | Trampolines | Lighthouse |
+| Glacier | Ice rink (slide!) and a snow ramp into the sea | Ice arch with a frozen fish |
+| Palm | Dive board and beach balls | Tiki hut with a hammock |
+| Volcano | Steam geysers that launch you into the sky | Obsidian shrine |
+
+Each islet has a giant clam: open it with **E** for 3 pearls (once per island).
 
 Also on the island:
 - **Levels.** Earn XP for almost everything; level up to unlock new hats, glasses and colours.
@@ -29,14 +40,15 @@ Also on the island:
 - **Mutations.** Fish sometimes come out **Silver**, **Gold**, **Shocked** or **Diamond**: they sparkle or crackle and sell for 1.5x to 5x.
 - **Rod skills.** Better rods have skills: Quick Hook (Carbon), Midas Touch (Golden), Clear Sight (Crystal), Hot Catch (Lava), Rainbow Luck (Rainbow).
 - **Snack machine.** Next to the campfire in the middle of the island: energy drink, fireworks (scare gulls), chum bucket (fish bite faster), hot cocoa (no freezing), banana peel (friends slip!), golden lure and mystery box. Press **X** to use.
-- **Pearl shop.** Earn pearls by levelling up, catching mutated fish and filling the quota; spend them on rod skins, stone skins, trails and special hats. Everything is earned in game, no real money.
+- **Pearl shop.** Earn pearls by levelling up, catching mutated fish, filling the quota and opening giant clams; spend them on rod skins, stone skins, trails and special hats. Every cosmetic has its own effect: rod tips sparkle, hats glow and stones leave a trail. Everything is earned in game, no real money.
+- **Walrus revenge.** Slap the Walrus and he gets angry, charges and slaps you into the sky.
 - **Emote wheel.** Hold **B** and push the mouse toward a dance; the wheel shows a preview of the dance.
 - **Continue.** Every won day is saved on the host's PC; press CONTINUE in the lobby to pick up where you left off.
 - **Hunger.** Cook a fish at the campfire (cooking minigame) and eat it (**X**).
 - **Seagulls** steal fish (but never while you cook), and they can even carry off a frozen penguin, flying low over the sea. Pick up stones (**E** at a stone pile) and throw them (**G**, auto-aim) at gulls, or at your friends for a bonk (4 s cooldown).
 - **Fish index** (**I**) lists every fish you've discovered.
 - **Wardrobe.** Hats, glasses, bow ties and colours for your penguin.
-- **Accounts and friends.** Make an account, add friends by tag and join their room in one click.
+- **Accounts and friends.** Make an account, add friends by tag and join their room in one click. The second tab of the friends screen lists every player alphabetically.
 - Secrets. A few of them.
 
 ## Controls (PC)
