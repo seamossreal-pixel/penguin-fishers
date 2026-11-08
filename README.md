@@ -24,8 +24,13 @@ The launcher and the game check this page for new versions. On PC the game offer
 Also on the island:
 - **Levels.** Earn XP for almost everything; level up to unlock new hats, glasses and colours.
 - **Surprises.** Treasure chests wash ashore and fish sometimes rain from the sky. Random day events: seagull invasion, fog, storm, moon gravity, ice skating, fish rain, golden day and the Walrus Feast Day (faster orders, double pay).
-- **Moon Day FFA.** A party mode from the lobby: low gravity, unlimited stones and an extra-strong punch. Knock your friends into the sea; the first penguin to fall in and freeze loses the round. The host picks the number of rounds.
-- **Bag.** 4 inventory slots: press **Z** to store what you carry or take it back, scroll to pick a slot.
+- **Moon Day FFA.** A party mode from the lobby: low gravity, unlimited stones and an extra-strong punch. Knock your friends into the sea; falling in is not enough: the first penguin to freeze loses the round. The host picks the number of rounds.
+- **Bag.** 4 inventory slots: press **1-4** (or **Z**) to store what you carry or take it back.
+- **Mutations.** Fish sometimes come out **Silver**, **Gold**, **Shocked** or **Diamond**: they sparkle or crackle and sell for 1.5x to 5x.
+- **Rod skills.** Better rods have skills: Quick Hook (Carbon), Midas Touch (Golden), Clear Sight (Crystal), Hot Catch (Lava), Rainbow Luck (Rainbow).
+- **Snack machine.** Next to the campfire in the middle of the island: energy drink, fireworks (scare gulls), chum bucket (fish bite faster), hot cocoa (no freezing), banana peel (friends slip!), golden lure and mystery box. Press **X** to use.
+- **Pearl shop.** Earn pearls by levelling up, catching mutated fish and filling the quota; spend them on rod skins, stone skins, trails and special hats. Everything is earned in game, no real money.
+- **Emote wheel.** Hold **B** and push the mouse toward a dance; the wheel shows a preview of the dance.
 - **Continue.** Every won day is saved on the host's PC; press CONTINUE in the lobby to pick up where you left off.
 - **Hunger.** Cook a fish at the campfire (cooking minigame) and eat it (**X**).
 - **Seagulls** steal fish (but never while you cook), and they can even carry off a frozen penguin, flying low over the sea. Pick up stones (**E** at a stone pile) and throw them (**G**, auto-aim) at gulls, or at your friends for a bonk (4 s cooldown).
@@ -47,10 +52,11 @@ New players get short one-time tips in the corner, and **ESC** shows the full co
 | F | Slap (and punch the boss) |
 | G | Throw a stone |
 | X | Eat |
-| Z | Bag: store / take (mouse wheel picks the slot) |
+| 1-4 / Z | Bag: store / take |
+| X | Eat a fish / use an item |
+| B (hold) | Emote wheel |
 | I | Fish index |
 | Ctrl | Slide |
-| 1-9 | Honk and dances |
 | V | Push-to-talk voice chat |
 | Hold R | Back to the stall |
 
