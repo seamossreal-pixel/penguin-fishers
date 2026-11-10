@@ -15,8 +15,8 @@ The launcher and the game check this page for new versions. On PC the game offer
 ## How to play
 
 1. **Fish.** Hold **left click** and release to cast. When the bobber sinks, click to hook the fish, then keep it inside the slippery green bar until it's reeled in.
-2. **Sell.** Carry the fish to the Walrus's bucket and press **E** to sell it. Fill the daily quota; everything you sell after the quota goes to the team wallet. There is no clock: when the quota is met, the host ends the day.
-3. **Walrus orders.** The Walrus sits on his throne at the far end of the island and orders a specific fish (shown at the top of the screen and above his head). There is no deadline, and the fish he wants bites more often. Bring it for a big bonus. Junk and slaps cost his **patience** (3 strikes, top bar); run out before the quota is met and you're fired. Delivered orders win some patience back.
+2. **Sell.** Carry the fish to Boss Walrus and press **E**: it flies into his mouth, he gulps it down and coins fountain straight back to you (since 1.19 there is no bucket and no orders, he pays for every fish on the spot). Fill the daily quota; everything you sell after the quota goes to the team wallet. There is no clock: when the quota is met, the host ends the day.
+3. **The Walrus.** Boss Walrus sits on his throne at the far end of the island; stand on the golden ring in front of him to sell, or just throw the fish at him. Junk and slaps cost his **patience** (3 strikes, top bar); run out before the quota is met and you're fired.
 4. **Market.** Seal Fikri's market has stands with the goods on display: walk up to one and press **E** to buy. Six rods (Bamboo, Carbon, Golden, Crystal, Lava, Rainbow), steel line, flippers, scarves and baits, plus one special item per island: gull repellent (Home), warm scarf (Glacier), a lucky parrot (Palm) and magma bait (Volcano).
 5. **Boss.** Throw the boss bait into the whirlpool. Reel the giant fish ashore, then **punch it (F)** while it's stunned. Bosses hit hard and fight back: at half health every boss gets **enraged**: it breaks free, flees to the water and attacks faster and in combos, so you have to hook it again. Every island has its own boss with its own moves: King Carp (Home), Frost Narwhal (Glacier), Coconut Crab King (Palm), Magma Eel (Volcano), Bullfrog King (Swamp) and the Ghost Pirate Octopus (Pirate Cove). Each one drops its own loot: a gold bar, a frost crystal, a magma core, a frog crown, a doubloon chest...
 6. **Sail.** Give the boss loot to Captain Pelican: the next island appears on the horizon and you get a boat. Sail there together and the crew lands on the beach (the boat is a rental, it sinks behind you, so every island needs a new boss and a new boat). Every island is different: Glacier, Palm, Volcano, Mushroom Swamp and Pirate Cove each have their own climate, mountain peak, trees, Walrus outfit, fish bonuses, market item and fish you can only catch there.
@@ -36,9 +36,9 @@ Each islet has a giant clam: open it with **E** for 3 pearls (once per island).
 
 Also on the island:
 - **Levels.** Earn XP for almost everything; level up to unlock new hats, glasses and colours.
-- **Surprises.** Treasure chests wash ashore and fish sometimes rain from the sky. Random day events: seagull invasion, fog, storm, moon gravity, ice skating, fish rain, golden day and the Walrus Feast Day (faster orders, double pay).
+- **Surprises.** Treasure chests wash ashore and fish sometimes rain from the sky. Random day events: seagull invasion, fog, storm, moon gravity, ice skating, fish rain, golden day and the Walrus Feast Day (every fish pays +50%).
 - **Hotbar.** 6 slots at the bottom: the rod (1), your stones (2) and 4 bag slots (3-6) for fish and items.
-- **Health.** At 0 hunger you lose 10 health every second; the health bar only shows when you are hurt. Faint and you wake up at the campfire.
+- **Health and going down.** At 0 hunger you lose 10 health every second; the health bar only shows when you are hurt. At 0 health you collapse (1.19): you lie on the ground for 25 s while a teammate can run up and **hold E** for 2.5 s to pick you up with 50 health. If nobody does, you die and respawn at the campfire, and the next collapse lasts 5 s longer (30, 35...).
 - **The Gull King.** Buy a Royal Firework at the market and light it (X): a giant crowned gull attacks with dives and egg bombs and calls its guards. Only stones hurt it, and it dodges while it circles high up: hit it while it dives! It drops the Golden Gull Wing (glide while carrying it, sells for a fortune).
 - **Buried treasure.** On Pirate Cove the Treasure Map comes with a shovel: red X marks appear in the sand, dig there (X) for chests.
 - **Every island has its own shape:** a snowy mountain on Glacier, a volcano with a lava crater, an atoll lagoon on Palm, ponds in the swamp, a rocky cove on Pirate Cove.
@@ -62,8 +62,11 @@ Also on the island:
 - **Feel.** Big hits freeze the screen for a split second, landings squash your penguin; camera shake can be set to Off / Low / Full in Settings.
 - **First person.** Since 1.18 you play through your penguin's eyes: your two flippers are on screen, the right one holds the rod and they waddle, slap, throw and paddle with you. Press **T** to switch to the old third-person camera (also in Settings). Head bob is off by default and can be turned on in Settings.
 - **Being a penguin.** Flap your flippers in the air (penguins can't fly, but it helps a little), leap out of the water like a dolphin while swimming fast, and huddle next to a friend to refill your stamina.
-- **Ragdolls everywhere.** Fall from high up or run into a wall at full speed and you flop over; press **Y** to go limp whenever you want. The camera pulls back so you can watch yourself flop.
-- **Selling feels good.** Sold fish fly from your flippers into the bucket with a real cash-register ka-ching, and the money floats up into the quota bar.
+- **Ragdolls everywhere.** Fall from high up (lower threshold since 1.19), run or belly-slide into a wall and you flop over; press **Y** to go limp whenever you want. The camera pulls back so you can watch yourself flop.
+- **Selling feels good.** Sold fish fly from your flippers into the Walrus's open mouth (CHOMP), coins fountain out of it to you with a real cash-register ka-ching, and the money floats up into the quota bar.
+- **Every catch has its own hold (1.19).** Pufferfish and crabs are held at arm's length, eels become a scarf, the brick phone goes to your ear, bottles are raised for a toast, ducks ride on your head, some fish dangle by the tail, some are cradled like a baby or pointed like a sword. Your third-person penguin now has the same blade flippers you see in first person, and carried items follow your view so they never float.
+- **The boat (1.19).** A proper fishing boat with a walkable deck, a wheelhouse, benches and a bow lookout: get off a seat and you land on the deck, walk around while the captain steers (the captain's flippers turn the wheel), or ride standing up.
+- **Crosshair, smoother movement, more VFX.** A small crosshair in first person, a touch of slide when you stop, and new effects for chomps, coin fountains, ragdoll impacts, revives, respawns, running on water, flipper flaps, dolphin leaps, hits and the boat's wake.
 - **Achievements and titles.** 13 achievements (first catch, beat a boss, bring down the Gull King, dig up treasure, throw a friend, visit every island...). Each one gives a title that shows under your name for everyone; pick it in the AWARDS screen (main menu, **B**) or the pause menu.
 - Secrets. A few of them.
 
@@ -76,7 +79,7 @@ New players get short one-time tips in the corner, and **ESC** shows the full co
 | Left click | Cast / hook / reel |
 | Right click | Reel back |
 | Q | Throw what you're carrying (or the friend you're holding) |
-| E | Pick up / drop / sell at the bucket / talk / cook / board and leave the boat / grab a friend |
+| E | Pick up / drop / sell to the Walrus / hold to revive a downed friend / talk / cook / board and leave the boat / grab a friend |
 | F | Slap (and punch the boss) |
 | G | Throw a stone |
 | X | Eat a fish / use an item |
