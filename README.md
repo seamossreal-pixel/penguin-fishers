@@ -60,6 +60,10 @@ Also on the island:
 - **Accounts and friends.** Make an account, add friends by tag and join their room in one click. The second tab of the friends screen lists every player alphabetically.
 - **Music that reacts.** The sea shanty gets drums while you fish and reel, and a full battle band when a boss shows up (even louder when it's enraged).
 - **Feel.** Big hits freeze the screen for a split second, landings squash your penguin; camera shake can be set to Off / Low / Full in Settings.
+- **First person.** Since 1.18 you play through your penguin's eyes: your two flippers are on screen, the right one holds the rod and they waddle, slap, throw and paddle with you. Press **T** to switch to the old third-person camera (also in Settings). Head bob is off by default and can be turned on in Settings.
+- **Being a penguin.** Flap your flippers in the air (penguins can't fly, but it helps a little), leap out of the water like a dolphin while swimming fast, and huddle next to a friend to refill your stamina.
+- **Ragdolls everywhere.** Fall from high up or run into a wall at full speed and you flop over; press **Y** to go limp whenever you want. The camera pulls back so you can watch yourself flop.
+- **Selling feels good.** Sold fish fly from your flippers into the bucket with a real cash-register ka-ching, and the money floats up into the quota bar.
 - **Achievements and titles.** 13 achievements (first catch, beat a boss, bring down the Gull King, dig up treasure, throw a friend, visit every island...). Each one gives a title that shows under your name for everyone; pick it in the AWARDS screen (main menu, **B**) or the pause menu.
 - Secrets. A few of them.
 
@@ -81,7 +85,9 @@ New players get short one-time tips in the corner, and **ESC** shows the full co
 | B (hold) | Emote wheel |
 | I | Fish index |
 | Ctrl | Slide |
-| Space (tap / hold) | Short / high jump |
+| Space (tap / hold) | Short / high jump; in the air: flap your flippers; swimming while sprinting: leap out of the water |
+| T | First person / third person camera |
+| Y | Go ragdoll |
 | Menu | Every menu button has a key (O create room, S solo, P pearl shop, D donate, B achievements, F1 settings...). In the lobby: Enter continues, N starts a new game. All keys can be changed in Settings. |
 | V | Push-to-talk voice chat |
 | Hold R | Back to the stall |
