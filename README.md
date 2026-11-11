@@ -6,7 +6,7 @@ A chaotic co-op fishing game for 1-6 penguins. Catch fish, keep the Walrus boss 
 
 | File | What it is |
 |---|---|
-| `PenguenBalikcilar.zip` | PC (Windows) package: launcher + game. Unzip it and run `Penguen Balikcilar.exe`. |
+| `PenguenBalikcilar.zip` | PC (Windows) package: launcher + game. Unzip it and run `Penguen Balikcilar.exe` (it opens the game directly and handles updates). |
 | `PenguenBalikcilar.apk` | Android phone version. |
 | `PenguenLauncher-N.exe` | Launcher only. It downloads and updates the game by itself. |
 
@@ -75,7 +75,7 @@ Also on the island:
 
 ## Controls (PC)
 
-New players get short one-time tips in the corner, and **ESC** shows the full controls list. Every key can be changed in **Settings > Controls > Key bindings**; on phones the buttons can be moved, resized or hidden (**Edit buttons**). **L-Alt** frees the mouse.
+New players get a step-by-step tutorial card at the top left (skip with Backspace, replay from **ESC > TUTORIAL**), the current quest always sits in that same card, and **ESC** shows the full controls list. Every key can be changed in **Settings > Controls > Key bindings**; on phones the buttons can be moved, resized or hidden (**Edit buttons**). **L-Alt** frees the mouse.
 
 | Key | Action |
 |---|---|
