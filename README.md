@@ -61,7 +61,7 @@ Also on the island:
 - **Music that reacts.** The sea shanty gets drums while you fish and reel, and a full battle band when a boss shows up (even louder when it's enraged).
 - **Feel.** Big hits freeze the screen for a split second, landings squash your penguin; camera shake can be set to Off / Low / Full in Settings.
 - **First person.** Since 1.18 you play through your penguin's eyes: your two flippers are on screen, the right one holds the rod and they waddle, slap, throw and paddle with you. Press **T** to switch to the old third-person camera (also in Settings). Head bob is off by default and can be turned on in Settings.
-- **Being a penguin.** Flap your flippers in the air (penguins can't fly, but it helps a little), leap out of the water like a dolphin while swimming fast, and huddle next to a friend to refill your stamina.
+- **Being a penguin.** Flap your flippers in the air (penguins can't fly, but it helps a little; flap right before hitting the ground after a long fall for a **clutch** landing), leap out of the water like a dolphin while swimming fast, and huddle next to a friend to refill your stamina.
 - **Ragdolls everywhere.** Fall from high up (lower threshold since 1.19), run or belly-slide into a wall and you flop over; press **Y** to go limp whenever you want. The camera pulls back so you can watch yourself flop.
 - **Feedback.** Found a bug or want a feature? Press **Esc** and pick FEEDBACK (or use the button at the bottom left of the main menu), write a short note and it goes straight to the developer.
 - **Sell prompt.** Carry a fish near Boss Walrus and a big **[E] SELL** prompt appears above him; from further away an arrow shows the distance.
