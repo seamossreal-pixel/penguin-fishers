@@ -17,7 +17,7 @@ The launcher and the game check this page for new versions. On PC the game offer
 1. **Fish.** Hold **left click** and release to cast. When the bobber sinks, click to hook the fish, then keep it inside the slippery green bar until it's reeled in.
 2. **Sell.** Carry the fish to Boss Walrus and press **E**: it flies into his mouth, he gulps it down and coins fountain straight back to you (since 1.19 there is no bucket and no orders, he pays for every fish on the spot). Fill the daily quota; everything you sell after the quota goes to the team wallet. There is no clock: when the quota is met, the host ends the day.
 3. **The Walrus.** Boss Walrus sits on his throne at the far end of the island; stand on the golden ring in front of him to sell, or just throw the fish at him. Junk and slaps cost his **patience** (3 strikes, top bar); run out before the quota is met and you're fired.
-4. **Market.** Seal Fikri's market has stands with the goods on display: walk up to one and press **E** to buy. Six rods (Bamboo, Carbon, Golden, Crystal, Lava, Rainbow), steel line, flippers, scarves and baits, plus one special item per island: gull repellent (Home), warm scarf (Glacier), a lucky parrot (Palm) and magma bait (Volcano).
+4. **Market.** Seal Fikri's big hut faces the campfire and every product hangs on its front wall: look at one to see its name and price (red if you cannot afford it) and press **E** to buy. Six rods (Bamboo, Carbon, Golden, Crystal, Lava, Rainbow), steel line, flippers, scarves and baits, plus one special item per island: gull repellent (Home), warm scarf (Glacier), a lucky parrot (Palm) and magma bait (Volcano).
 5. **Boss.** Throw the boss bait into the whirlpool. Reel the giant fish ashore, then **punch it (F)** while it's stunned. Bosses hit hard and fight back: at half health every boss gets **enraged**: it breaks free, flees to the water and attacks faster and in combos, so you have to hook it again. Every island has its own boss with its own moves: King Carp (Home), Frost Narwhal (Glacier), Coconut Crab King (Palm), Magma Eel (Volcano), Bullfrog King (Swamp) and the Ghost Pirate Octopus (Pirate Cove). Each one drops its own loot: a gold bar, a frost crystal, a magma core, a frog crown, a doubloon chest...
 6. **Sail.** Give the boss loot to Captain Pelican: the next island appears on the horizon and you get a boat. Sail there together and the crew lands on the beach (the boat is a rental, it sinks behind you, so every island needs a new boss and a new boat). Every island is different: Glacier, Palm, Volcano, Mushroom Swamp and Pirate Cove each have their own climate, mountain peak, trees, Walrus outfit, fish bonuses, market item and fish you can only catch there.
 
@@ -37,7 +37,7 @@ Each islet has a giant clam: open it with **E** for 3 pearls (once per island).
 Also on the island:
 - **Levels.** Earn XP for almost everything; level up to unlock new hats, glasses and colours.
 - **Surprises.** Treasure chests wash ashore and fish sometimes rain from the sky. Random day events: seagull invasion, fog, storm, moon gravity, ice skating, fish rain, golden day and the Walrus Feast Day (every fish pays +50%).
-- **Hotbar.** 6 slots at the bottom: the rod (1), your stones (2) and 4 bag slots (3-6) for fish and items.
+- **Hotbar.** 6 slots at the bottom: the rod (1) and 5 bag slots (2-6) for fish, items and your stones (stones take a slot only while you have some). Press the key of the selected slot again to go bare-handed: fists out, click or **F** to punch.
 - **Health and going down.** At 0 hunger you lose 10 health every second; the health bar only shows when you are hurt. At 0 health you collapse (1.19): you lie on the ground for 25 s while a teammate can run up and **hold E** for 2.5 s to pick you up with 50 health. If nobody does, you die and respawn at the campfire, and the next collapse lasts 5 s longer (30, 35...).
 - **The Gull King.** Buy a Royal Firework at the market and light it (X): a giant crowned gull attacks with dives and egg bombs and calls its guards. Only stones hurt it, and it dodges while it circles high up: hit it while it dives! It drops the Golden Gull Wing (glide while carrying it, sells for a fortune).
 - **Buried treasure.** On Pirate Cove the Treasure Map comes with a shovel: red X marks appear in the sand, dig there (X) for chests.
@@ -53,7 +53,7 @@ Also on the island:
 - **Walrus revenge.** Slap the Walrus and he gets angry, charges and slaps you into the sky.
 - **Emote wheel.** Hold **B** and push the mouse toward a dance; the wheel shows a preview of the dance.
 - **Continue.** Every won day is saved on the host's PC; press CONTINUE in the lobby to pick up where you left off.
-- **Hunger.** Cook a fish at the campfire (cooking minigame) and eat it (**X**).
+- **Hunger.** Cook a fish at the campfire (hold fire to keep the heat in the green zone, flip it halfway, do not burn it) and eat it (**X**).
 - **Seagulls** steal fish (but never while you cook), and they can even carry off a frozen penguin, flying low over the sea. Pick up stones (**E** at a stone pile) and throw them (**G**, auto-aim) at gulls, or at your friends for a bonk (4 s cooldown).
 - **Fish index** (**I**) lists every fish you've discovered. Version 1.17 added 8 new fish, like the Main Character Fish, No Cap Cod, the Delulu Fish and the Lag Fish.
 - **Wardrobe.** Hats, glasses, bow ties and colours for your penguin.
@@ -83,10 +83,10 @@ New players get short one-time tips in the corner, and **ESC** shows the full co
 | Right click | Reel back |
 | Q | Throw what you're carrying (or the friend you're holding) |
 | E | Pick up / drop / sell to the Walrus / hold to revive a downed friend / talk / cook / board and leave the boat / grab a friend |
-| F | Slap (and punch the boss) |
+| F | Fists out + punch (slap friends, punch the boss) |
 | G | Throw a stone |
 | X | Eat a fish / use an item |
-| 1-6 / Z | Hotbar: rod, stones, bag slots |
+| 1-6 / Z | Hotbar: rod and bag slots; press the selected slot again for fists |
 | L-Alt | Free / lock the mouse |
 | B (hold) | Emote wheel |
 | I | Fish index |
