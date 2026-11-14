@@ -1,6 +1,6 @@
 # Penguin Fishers
 
-A chaotic co-op fishing game for 1-6 penguins. Catch fish, keep the Walrus boss happy, fight a giant whale and sail to new islands together, on PC or phone.
+A chaotic co-op fishing game for 1-6 penguins. Catch fish, keep the Walrus boss happy, fight a giant whale, sail to new islands together and finally fly a rocket to **the Moon**, on PC or phone.
 
 **[Download the latest version](https://github.com/seamossreal-pixel/penguen-balikcilar/releases/latest)**
 
@@ -18,7 +18,7 @@ The launcher and the game check this page for new versions. On PC the game offer
 2. **Sell.** Carry the fish to Boss Walrus and press **E**: it flies into his mouth, he gulps it down and coins fountain straight back to you (since 1.19 there is no bucket and no orders, he pays for every fish on the spot). Since 1.25 one press sells the fish in your hand **and every raw fish in your bag**, one after another. Fill the daily quota; everything you sell after the quota goes to the team wallet. There is no clock: when the quota is met, the host ends the day.
 3. **The Walrus.** Boss Walrus sits on his throne at the far end of the island; stand on the golden ring in front of him to sell, or just throw the fish at him. Junk and slaps cost his **patience** (3 strikes, top bar); run out before the quota is met and you're fired.
 4. **Market.** Seal Fikri's big hut faces the campfire and every product hangs on its front wall: look at one to see its name and price (red if you cannot afford it) and press **E** to buy. Six rods (Bamboo, Carbon, Golden, Crystal, Lava, Rainbow), steel line, flippers, scarves and baits, plus one special item per island: gull repellent (Home), warm scarf (Glacier), a lucky parrot (Palm) and magma bait (Volcano).
-5. **Boss.** Throw the boss bait into the whirlpool. Reel the giant fish ashore, then **punch it (F)** while it's stunned. Bosses hit hard and fight back: at half health every boss gets **enraged**: it breaks free, flees to the water and attacks faster and in combos, so you have to hook it again. Every island has its own boss with its own moves: the Blue Whale (Home, since 1.26: it spouts water, makes waves and tail-slaps), Frost Narwhal (Glacier), Coconut Crab King (Palm), Magma Eel (Volcano), Bullfrog King (Swamp) and the Ghost Pirate Octopus (Pirate Cove). Each one drops its own loot: a gold bar, a frost crystal, a magma core, a frog crown, a doubloon chest... Casting at a boss is easy: throw roughly toward it and the line goes to it (aim assist, 1.26). A boss that waits too long gets bored, says goodbye and dives away.
+5. **Boss.** Throw the boss bait into the sea (since 1.27 anywhere in deep water; the boss rises where it lands, the whirlpool still works). Reel the giant fish ashore, then **punch it (F)** while it's stunned. Bosses hit hard and fight back: at half health every boss gets **enraged**: it breaks free, flees to the water and attacks faster and in combos, so you have to hook it again. Every island has its own boss with its own moves: the Blue Whale (Home, since 1.26: it spouts water, makes waves and tail-slaps), Frost Narwhal (Glacier), Coconut Crab King (Palm), Magma Eel (Volcano), Bullfrog King (Swamp) and the Ghost Pirate Octopus (Pirate Cove). Each one drops its own loot: a gold bar, a frost crystal, a magma core, a frog crown, a doubloon chest... Casting at a boss is easy: throw roughly toward it and the line goes to it (aim assist, 1.26). A boss that waits too long gets bored, says goodbye and dives away.
 6. **Sail.** Give the boss loot to Captain Pelican: the next island appears on the horizon and you get a boat. Sail there together and the crew lands on the beach (the boat is a rental, it sinks behind you, so every island needs a new boss and a new boat). Every island is different: Glacier, Palm, Volcano, Mushroom Swamp and Pirate Cove each have their own climate, mountain peak, trees, Walrus outfit, fish bonuses, market item and fish you can only catch there.
 
 Every island also has its own playground and a small islet across a rope bridge:
@@ -31,6 +31,15 @@ Every island also has its own playground and a small islet across a rope bridge:
 | Volcano | Steam geysers that launch you into the sky | Obsidian shrine |
 | Mushroom Swamp | Bouncy giant mushrooms and a lily pad path | Witch hut |
 | Pirate Cove | Walk the plank, barrel cannon across the island | Shipwreck |
+| Candy Island (1.27) | Jelly trampolines, cake mountain, lollipop and candy cane trees | Gingerbread house |
+| Desert Oasis (1.27) | Sand geysers, cacti, a ring-shaped oasis | Tiny pyramid |
+| Crystal Isle (1.27) | Crystal rink, glowing crystal trees; the boss drops the Moon Crystal for the **rocket** | Giant crystal |
+| **The Moon** (1.27) | Low gravity, trampolines that throw you into space, stars and the Earth in the sky | Lunar lander |
+
+**To the Moon (1.27).** On Crystal Isle Captain Pelican sells a **rocket** instead of a boat. Board it, the pilot presses forward: 3, 2, 1, liftoff, with a cinematic launch and a landing on the Moon. The Moon's boss drops Moon Cheese, which buys the rocket home to Earth. The new islands' bosses: Gummy Frog King, Pharaoh Crab, Crystal Narwhal and Alien Octopus.
+
+**Things to do on every island (1.27):** a lucky wheel (coins, fish, a banana... or a BOING), a dance floor with a disco ball (everyone near dances), a hammock (refills health and energy) and a telescope on the summit. The Home islet's **lighthouse can be entered**: radio, bed, treasure chest, lamp switch, a ladder to the balcony with a telescope, a foghorn and a dive board into the sea. The volcano erupts every minute: ash clouds, a lava fountain, lava bombs and lava rivers that flow down to the sea and cool (don't stand in them).
+
 
 Each islet has a giant clam: open it with **E** for 3 pearls (once per island).
 
@@ -55,6 +64,7 @@ Also on the island:
 - **Continue.** Every won day is saved on the host's PC; press CONTINUE in the lobby to pick up where you left off.
 - **Hunger.** Cook a fish at the campfire and eat it (**X**). Since 1.26 cooking is simple: hold fire to lower the fish toward the flames, release to lift it, keep it in the green (yellow = perfect); a big line always tells you what to do and the fish flips itself halfway.
 - **Cutscenes (1.26).** Short cinematic scenes when you join, at the start of a shift, when you reach a new island, when a boss appears or is defeated, at the end of a day and when you get fired. Skip with **E** / **Space** (SKIP on phones) or turn them off in Settings.
+- **Tap the prompt (1.27).** Tap (phone) or click the big [E] prompt to use it. On phones the mini-games (reeling, cooking, the gull tug) use their own green button, so you never throw your cooked fish by accident.
 - **Prompts (1.26).** Walk up to the campfire, the Walrus, the shop, Captain Pelican or the boat and a big **[E] COOK / SELL / SHOP / TALK / BOARD** prompt shows what to do. The team money is shown big in the top bar (sales go to the quota first, money grows after the quota is met).
 - **Fits every screen (1.26).** The UI adapts to every phone, including foldables (Galaxy Z Fold inner and cover screens), tablets, older 16:9 phones and notches. Phone buttons that do nothing right now are hidden.
 - **Seagulls** steal fish (but never while you cook), and they can even carry off a frozen penguin, flying low over the sea. Pick up stones (**E** at a stone pile) and throw them (**G**, auto-aim) at gulls, or at your friends for a bonk (4 s cooldown).
