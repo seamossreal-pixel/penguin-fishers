@@ -6,11 +6,19 @@ A chaotic co-op fishing game for 1-6 penguins. Catch fish, keep the Walrus boss 
 
 | File | What it is |
 |---|---|
-| `PenguenBalikcilar.zip` | PC (Windows) package: launcher + game. Unzip it and run `Penguen Balikcilar.exe` (it opens the game directly and handles updates). |
+| `PenguenBalikcilar.zip` | PC (Windows) game. Unzip it and run `PenguenBalikcilar.exe` inside the `PenguenBalikcilar` folder. |
 | `PenguenBalikcilar.apk` | Android phone version. |
-| `PenguenLauncher-N.exe` | Launcher only. It downloads and updates the game by itself. |
+| `Game.zip` | The PC game files (used by the in-game updater). |
 
-The launcher and the game check this page for new versions. On PC the game offers **Update** and the launcher installs it. On Android the game opens with its own launcher screen: it checks for a new version, downloads the APK by itself and opens the installer.
+The game checks this page for new versions. On PC the main menu offers **Update**: the game downloads the new version itself, closes, installs it and starts again (no launcher since 1.27.1; an old launcher you still have keeps working). On Android the game opens with its own launcher screen: it checks for a new version, downloads the APK by itself and opens the installer.
+
+## New in 1.28
+
+- Every fish, boss, boat, shop product and cosmetic is now a hand-made Blender model: all fish have their own body shape, and all 10 bosses have their own island-themed look (Blue Whale, Frost Narwhal, Coconut Crab King, Magma Eel, Bullfrog King, Ghost Pirate Octopus, Cupcake Monster, Pharaoh Scorpion, Crystal Narwhal, Alien Commander). Their googly eyes follow you.
+- 18 new fish (two per island plus candy, cactus, crystal, UFO and three-eyed fish); on the Moon the gulls are UFOs and only alien fish bite.
+- Mini-games on every island: Fish Basketball and the Ring Race (coins for the team wallet).
+- 12 new shop items: Rocket Boots, Balloon, Pizza, Party Popper, Water Gun, Fish Magnet, Ice Cream, Megaphone, Snorkel, Recall Whistle, Disco Ball, Fortune Cookie.
+- New emote **Lie Down** (hammocks and beds use it too), boss hits shake the screen again, storm fog, a wider lighthouse door, smoother menus.
 
 ## How to play
 
