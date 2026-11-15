@@ -12,6 +12,15 @@ A chaotic co-op fishing game for 1-6 penguins. Catch fish, keep the Walrus boss 
 
 The game checks this page for new versions. On PC the main menu offers **Update**: the game downloads the new version itself, closes, installs it and starts again (no launcher since 1.27.1; an old launcher you still have keeps working). On Android the game opens with its own launcher screen: it checks for a new version, downloads the APK by itself and opens the installer.
 
+## New in 1.29
+
+- **Simpler islands.** Smaller main island, less clutter, and everything you use (Walrus, campfire, market, snack machine, wardrobe, Captain Pelican, playgrounds) stands a few steps apart so prompts never overlap. The peak island, cannons, islets and fun spots are gone.
+- **Wise Turtle Tonton** lives on the island's edge and gives the **boss bait** through quests that change on every island: find his lost glasses, straw hat, walking cane or tea glass (it sparkles somewhere), then bring him raw fish, junk from the sea, an uncommon fish or cooked fish. The whirlpool shows a pink beam when you have bait.
+- **Market like a tool shed door:** products hang on nails, look at one to see name, price and [E].
+- **Music for every island** plus a boss song; bosses hit harder and can hit you while you reel them in. Graphics setting for boss quality.
+- **Bunny hop:** jump right as you land to keep and build speed.
+- Fish you carry look bigger and the hint shows what you are holding. Fewer speech bubbles on screen.
+- The game's name is now **Penguin Fishers** everywhere (window title, phone app name). Your progress stays.
 ## New in 1.28
 
 - Every fish, boss, boat, shop product and cosmetic is now a hand-made Blender model: all fish have their own body shape, and all 10 bosses have their own island-themed look (Blue Whale, Frost Narwhal, Coconut Crab King, Magma Eel, Bullfrog King, Ghost Pirate Octopus, Cupcake Monster, Pharaoh Scorpion, Crystal Narwhal, Alien Commander). Their googly eyes follow you.
@@ -29,7 +38,7 @@ The game checks this page for new versions. On PC the main menu offers **Update*
 5. **Boss.** Throw the boss bait into the sea (since 1.27 anywhere in deep water; the boss rises where it lands, the whirlpool still works). Reel the giant fish ashore, then **punch it (F)** while it's stunned. Bosses hit hard and fight back: at half health every boss gets **enraged**: it breaks free, flees to the water and attacks faster and in combos, so you have to hook it again. Every island has its own boss with its own moves: the Blue Whale (Home, since 1.26: it spouts water, makes waves and tail-slaps), Frost Narwhal (Glacier), Coconut Crab King (Palm), Magma Eel (Volcano), Bullfrog King (Swamp) and the Ghost Pirate Octopus (Pirate Cove). Each one drops its own loot: a gold bar, a frost crystal, a magma core, a frog crown, a doubloon chest... Casting at a boss is easy: throw roughly toward it and the line goes to it (aim assist, 1.26). A boss that waits too long gets bored, says goodbye and dives away.
 6. **Sail.** Give the boss loot to Captain Pelican: the next island appears on the horizon and you get a boat. Sail there together and the crew lands on the beach (the boat is a rental, it sinks behind you, so every island needs a new boss and a new boat). Every island is different: Glacier, Palm, Volcano, Mushroom Swamp and Pirate Cove each have their own climate, mountain peak, trees, Walrus outfit, fish bonuses, market item and fish you can only catch there.
 
-Every island also has its own playground and a small islet across a rope bridge:
+Every island also has its own playground (the islets were removed in 1.29):
 
 | Island | Playground | Islet |
 |---|---|---|
