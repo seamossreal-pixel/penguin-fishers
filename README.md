@@ -2,7 +2,7 @@
 
 A chaotic co-op fishing game for 1-6 penguins. Catch fish, keep the Walrus boss happy, fight a giant whale, sail to new islands together and finally fly a rocket to **the Moon**, on PC or phone.
 
-**[Download the latest version](https://github.com/seamossreal-pixel/penguen-balikcilar/releases/latest)**
+**[Download the latest version](https://github.com/seamossreal-pixel/penguin-fishers/releases/latest)**
 
 | File | What it is |
 |---|---|
