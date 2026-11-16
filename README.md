@@ -12,6 +12,12 @@ A chaotic co-op fishing game for 1-6 penguins. Catch fish, keep the Walrus boss 
 
 The game checks this page for new versions. On PC the main menu offers **Update**: the game downloads the new version itself, closes, installs it and starts again (no launcher since 1.27.1; an old launcher you still have keeps working). On Android the game opens with its own launcher screen: it checks for a new version, downloads the APK by itself and opens the installer.
 
+## New in 1.32
+
+- **Three more languages:** Español, Deutsch and Français, next to Türkçe and English. Change it with the language button in the main menu or in Settings; on first start the game picks your device language.
+- **Put your friends on the roulette.** Carry a friend to the Lucky Table, look at a colour and press **E**. Win and they turn into a **golden penguin** for a while and the team gets coins (100 on red or black, 500 on green). Lose and they are launched **into space**.
+- **Less text on screen:** fewer warnings and pop-up words when you fall, splash or freeze.
+
 ## New in 1.31
 
 - **Lucky Table rebuilt.** Three big spots: RED x2, BLACK x2 and GREEN x10, with a wheel that slows down and stops on the winning colour. Winning no longer pays coins: the **fish itself becomes worth more and comes back to your hands**, so you can sell it or let it ride again. Lose and the fish is gone. The spot you look at lifts up so you can see your pick.
