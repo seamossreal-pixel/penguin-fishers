@@ -12,6 +12,15 @@ A chaotic co-op fishing game for 1-6 penguins. Catch fish, keep the Walrus boss 
 
 The game checks this page for new versions. On PC the main menu offers **Update**: the game downloads the new version itself, closes, installs it and starts again (no launcher since 1.27.1; an old launcher you still have keeps working). On Android the game opens with its own launcher screen: it checks for a new version, downloads the APK by itself and opens the installer.
 
+## New in 1.30
+
+- **Free play.** Every fish you sell pays into the team wallet right away; you no longer have to fill the quota first.
+- **Nobody gets fired.** When Boss Walrus runs out of patience he takes a fine from the wallet and the game goes on.
+- **Sail whenever you are ready:** the boat no longer waits for the quota.
+- **Boss bait at the market.** Besides Wise Turtle's free quests, Seal Fikri sells boss bait (150 gold, +50 on every new island).
+- **Lucky Table** near the campfire: hold a fish, look at red, black or green and press **E**. Red and black pay 2x the fish's value, green pays 10x; lose and the fish is gone.
+- A beached boss no longer lands inside the market hut.
+
 ## New in 1.29
 
 - **Simpler islands.** Smaller main island, less clutter, and everything you use (Walrus, campfire, market, snack machine, wardrobe, Captain Pelican, playgrounds) stands a few steps apart so prompts never overlap. The peak island, cannons, islets and fun spots are gone.
@@ -32,8 +41,8 @@ The game checks this page for new versions. On PC the main menu offers **Update*
 ## How to play
 
 1. **Fish.** Hold **left click** and release to cast. When the bobber sinks, click to hook the fish, then keep it inside the slippery green bar until it's reeled in.
-2. **Sell.** Carry the fish to Boss Walrus and press **E**: it flies into his mouth, he gulps it down and coins fountain straight back to you (since 1.19 there is no bucket and no orders, he pays for every fish on the spot). Since 1.25 one press sells the fish in your hand **and every raw fish in your bag**, one after another. Fill the daily quota; everything you sell after the quota goes to the team wallet. There is no clock: when the quota is met, the host ends the day.
-3. **The Walrus.** Boss Walrus sits on his throne at the far end of the island; stand on the golden ring in front of him to sell, or just throw the fish at him. Junk and slaps cost his **patience** (3 strikes, top bar); run out before the quota is met and you're fired.
+2. **Sell.** Carry the fish to Boss Walrus and press **E**: it flies into his mouth, he gulps it down and coins fountain straight back to you (since 1.19 there is no bucket and no orders, he pays for every fish on the spot). Since 1.25 one press sells the fish in your hand **and every raw fish in your bag**, one after another. Since 1.30 every sale goes straight to the team wallet and also counts toward the daily quota. There is no clock: the host ends the day.
+3. **The Walrus.** Boss Walrus sits on his throne at the far end of the island; stand on the golden ring in front of him to sell, or just throw the fish at him. Junk and slaps cost his **patience** (3 strikes, top bar); when it runs out he takes a fine from the team wallet (since 1.30 nobody gets fired).
 4. **Market.** Seal Fikri's big hut faces the campfire and every product hangs on its front wall: look at one to see its name and price (red if you cannot afford it) and press **E** to buy. Six rods (Bamboo, Carbon, Golden, Crystal, Lava, Rainbow), steel line, flippers, scarves and baits, plus one special item per island: gull repellent (Home), warm scarf (Glacier), a lucky parrot (Palm) and magma bait (Volcano).
 5. **Boss.** Throw the boss bait into the sea (since 1.27 anywhere in deep water; the boss rises where it lands, the whirlpool still works). Reel the giant fish ashore, then **punch it (F)** while it's stunned. Bosses hit hard and fight back: at half health every boss gets **enraged**: it breaks free, flees to the water and attacks faster and in combos, so you have to hook it again. Every island has its own boss with its own moves: the Blue Whale (Home, since 1.26: it spouts water, makes waves and tail-slaps), Frost Narwhal (Glacier), Coconut Crab King (Palm), Magma Eel (Volcano), Bullfrog King (Swamp) and the Ghost Pirate Octopus (Pirate Cove). Each one drops its own loot: a gold bar, a frost crystal, a magma core, a frog crown, a doubloon chest... Casting at a boss is easy: throw roughly toward it and the line goes to it (aim assist, 1.26). A boss that waits too long gets bored, says goodbye and dives away.
 6. **Sail.** Give the boss loot to Captain Pelican: the next island appears on the horizon and you get a boat. Sail there together and the crew lands on the beach (the boat is a rental, it sinks behind you, so every island needs a new boss and a new boat). Every island is different: Glacier, Palm, Volcano, Mushroom Swamp and Pirate Cove each have their own climate, mountain peak, trees, Walrus outfit, fish bonuses, market item and fish you can only catch there.
@@ -82,7 +91,7 @@ Also on the island:
 - **Hunger.** Cook a fish at the campfire and eat it (**X**). Since 1.26 cooking is simple: hold fire to lower the fish toward the flames, release to lift it, keep it in the green (yellow = perfect); a big line always tells you what to do and the fish flips itself halfway.
 - **Cutscenes (1.26).** Short cinematic scenes when you join, at the start of a shift, when you reach a new island, when a boss appears or is defeated, at the end of a day and when you get fired. Skip with **E** / **Space** (SKIP on phones) or turn them off in Settings.
 - **Tap the prompt (1.27).** Tap (phone) or click the big [E] prompt to use it. On phones the mini-games (reeling, cooking, the gull tug) use their own green button, so you never throw your cooked fish by accident.
-- **Prompts (1.26).** Walk up to the campfire, the Walrus, the shop, Captain Pelican or the boat and a big **[E] COOK / SELL / SHOP / TALK / BOARD** prompt shows what to do. The team money is shown big in the top bar (sales go to the quota first, money grows after the quota is met).
+- **Prompts (1.26).** Walk up to the campfire, the Walrus, the shop, Captain Pelican or the boat and a big **[E] COOK / SELL / SHOP / TALK / BOARD** prompt shows what to do. The team money is shown big in the top bar (since 1.30 every sale adds to it at once).
 - **Fits every screen (1.26).** The UI adapts to every phone, including foldables (Galaxy Z Fold inner and cover screens), tablets, older 16:9 phones and notches. Phone buttons that do nothing right now are hidden.
 - **Seagulls** steal fish (but never while you cook), and they can even carry off a frozen penguin, flying low over the sea. Pick up stones (**E** at a stone pile) and throw them (**G**, auto-aim) at gulls, or at your friends for a bonk (4 s cooldown).
 - **Fish index** (**I**) lists every fish you've discovered. Version 1.17 added 8 new fish, like the Main Character Fish, No Cap Cod, the Delulu Fish and the Lag Fish.
