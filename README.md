@@ -12,6 +12,17 @@ A chaotic co-op fishing game for 1-6 penguins. Catch fish, keep the Walrus boss 
 
 The game checks this page for new versions. On PC the main menu offers **Update**: the game downloads the new version itself, closes, installs it and starts again (no launcher since 1.27.1; an old launcher you still have keeps working). On Android the game opens with its own launcher screen: it checks for a new version, downloads the APK by itself and opens the installer.
 
+## New in 1.31
+
+- **Lucky Table rebuilt.** Three big spots: RED x2, BLACK x2 and GREEN x10, with a wheel that slows down and stops on the winning colour. Winning no longer pays coins: the **fish itself becomes worth more and comes back to your hands**, so you can sell it or let it ride again. Lose and the fish is gone. The spot you look at lifts up so you can see your pick.
+- **Crouch.** Hold **Ctrl** (CROUCH on phones) to duck and sneak.
+- **Slide by speed.** Crouch while running and you dive into a belly slide; the faster you are, the further you slide.
+- **Boss Walrus and Seal Fikri have new hand-made models** (same light weight as before).
+- A **Terms and Conditions** screen shows on first start (TERMS button in the main menu); the privacy policy is linked from it.
+- **New main menu:** one simple column of buttons and a boat full of penguins at sea. The crew reacts to every menu button, and a short "anchors aweigh" scene plays when you start a game. Fits phones, tablets and wide screens.
+- **Fish index is tidy:** grouped by rarity, cheapest first.
+- Cutscenes are off by default (turn them on in Settings if you like them).
+- Fix: a ragdolled or sliding penguin no longer floats above the ground.
 ## New in 1.30
 
 - **Free play.** Every fish you sell pays into the team wallet right away; you no longer have to fill the quota first.
@@ -130,7 +141,7 @@ New players get a step-by-step tutorial card at the top left (skip with Backspac
 | L-Alt | Free / lock the mouse |
 | B (hold) | Emote wheel |
 | I | Fish index |
-| Ctrl | Slide |
+| Ctrl | Crouch (hold); while running: belly slide |
 | Space (tap / hold) | Short / high jump; in the air: flap your flippers; swimming while sprinting: leap out of the water |
 | T | First person / third person camera |
 | Y | Go ragdoll |
